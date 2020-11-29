@@ -164,7 +164,6 @@ input[type="reset"] {
   font-weight: bold;
   line-height: 1.2;
   white-space: nowrap;
-  text-decoration: none;
   padding: 1em 2em;
   cursor: pointer;
   transition: 0.3s ease-in-out;
