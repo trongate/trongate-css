@@ -262,13 +262,13 @@ footer {
 
 .alt {
   background-color: transparent;
-  border: 1px var(--primary-color) solid;
+  border: 2px var(--primary-color) solid;
   color: var(--text-dark);
 }
 
 .alt:hover {
   background-color: transparent;
-  border: var(--primary-color-dark) solid;
+  border: 2px var(--primary-color-dark) solid;
   color: var(--primary-color);
 }
 
