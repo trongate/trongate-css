@@ -8,9 +8,8 @@
   --text-dark: #334155;
   --text-light: #f8fafc;
 
-  --font-sans: "Century Gothic", Arial, Gadget, sans-serif;
-  --font-serif: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond,
-    "Times New Roman", serif;
+  --font-sans: "Century Gothic", Tahoma, Arial, sans-serif;
+  --font-serif: Georgia, Times, "Times New Roman", serif;
 }
 
 /* ==========================================================================
@@ -80,7 +79,7 @@ h3 {
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 1.2em;
 }
 
 a {
