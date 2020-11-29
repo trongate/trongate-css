@@ -23,8 +23,7 @@ Sensible defaults
   box-sizing: border-box;
 }
 
-::selection,
-::-moz-selection {
+::selection {
   background-color: var(--primary-color);
   color: var(--text-light);
 }
