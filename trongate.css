@@ -60,26 +60,49 @@ h3,
 h4,
 h5,
 h6 {
+  margin: 0;
   font-family: var(--font-sans);
-  line-height: 1;
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 3.75rem;
+  line-height: 1;
+  margin: 1rem 0 1.5rem;
   color: var(--primary-color);
-  margin-bottom: 0.2em;
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 3rem;
+  line-height: 1;
+  margin: 1rem 0 1rem;
 }
 
 h3 {
-  margin: 1.5em 0 0.25em 0;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  margin: 1rem 0 1rem;
+}
+
+h4 {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  margin: 1rem 0 1rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin: 1rem 0 0.5rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin: 1rem 0 0.2rem;
 }
 
 p {
-  font-size: 1.2em;
+  font-size: 1rem;
 }
 
 a {
